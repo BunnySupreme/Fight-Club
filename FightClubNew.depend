@@ -1,0 +1,76 @@
+# depslib dependency file v1.0
+1710311828 source:c:\users\carto\documents\informatik\programmieren\fightclubnew\main.cpp
+	<iostream>
+	"Game.h"
+
+1710315256 source:c:\users\carto\documents\informatik\programmieren\fightclubnew\src\ability.cpp
+	"Ability.h"
+
+1710316464 c:\users\carto\documents\informatik\programmieren\fightclubnew\include\ability.h
+	<string>
+
+1710316593 source:c:\users\carto\documents\informatik\programmieren\fightclubnew\src\punch.cpp
+	"Punch.h"
+	<iostream>
+
+1710316464 c:\users\carto\documents\informatik\programmieren\fightclubnew\include\punch.h
+	"Ability.h"
+	"Character.h"
+
+1710316464 c:\users\carto\documents\informatik\programmieren\fightclubnew\include\character.h
+	<string>
+	"Ability.h"
+	"Config.h"
+
+1710316779 source:c:\users\carto\documents\informatik\programmieren\fightclubnew\src\character.cpp
+	"Character.h"
+	<iostream>
+
+1710320307 c:\users\carto\documents\informatik\programmieren\fightclubnew\include\config.h
+
+1710321820 source:c:\users\carto\documents\informatik\programmieren\fightclubnew\src\game.cpp
+	"Game.h"
+	"Punch.h"
+	"Heal.h"
+	"RiskyPunch.h"
+	"Player.h"
+	"Computer.h"
+	<iostream>
+	<limits>
+
+1710321696 c:\users\carto\documents\informatik\programmieren\fightclubnew\include\game.h
+	"Ability.h"
+	"Character.h"
+	"Config.h"
+
+1710316618 source:c:\users\carto\documents\informatik\programmieren\fightclubnew\src\heal.cpp
+	"Heal.h"
+	<iostream>
+
+1710316489 c:\users\carto\documents\informatik\programmieren\fightclubnew\include\heal.h
+	"Ability.h"
+	"Character.h"
+
+1710316520 source:c:\users\carto\documents\informatik\programmieren\fightclubnew\src\riskypunch.cpp
+	"RiskyPunch.h"
+
+1710316494 c:\users\carto\documents\informatik\programmieren\fightclubnew\include\riskypunch.h
+	"Ability.h"
+	"Character.h"
+
+1710316941 source:c:\users\carto\documents\informatik\programmieren\fightclubnew\src\player.cpp
+	"Player.h"
+	<iostream>
+
+1710316498 c:\users\carto\documents\informatik\programmieren\fightclubnew\include\player.h
+	"Character.h"
+	"Config.h"
+
+1710320218 source:c:\users\carto\documents\informatik\programmieren\fightclubnew\src\computer.cpp
+	"Computer.h"
+	<iostream>
+
+1710316471 c:\users\carto\documents\informatik\programmieren\fightclubnew\include\computer.h
+	"Config.h"
+	"Character.h"
+
